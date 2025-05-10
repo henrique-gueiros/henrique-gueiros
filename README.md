@@ -28,7 +28,6 @@ I'm constantly learning and looking for ways to apply technology in smart, scala
 
 ---
 ![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrique-gueiros&show_icons=true&theme=tokyonight&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henrique-gueiros&theme=tokyonight)
 
 <p align="center">
