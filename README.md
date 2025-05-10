@@ -27,9 +27,14 @@ I'm constantly learning and looking for ways to apply technology in smart, scala
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrique-gueiros&show_icons=true&theme=dark&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henrique-gueiros&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-gueiros&layout=compact&theme=dark)
+![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrique-gueiros&show_icons=true&theme=tokyonight&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henrique-gueiros&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-gueiros&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
 
 
 
