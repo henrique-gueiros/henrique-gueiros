@@ -27,7 +27,10 @@ I'm constantly learning and looking for ways to apply technology in smart, scala
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrique-gueiros&show_icons=true&theme=dark&count_private=true)
 
+
+---
 ## 📌 Featured Projects
 
 
