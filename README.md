@@ -45,7 +45,7 @@ I'm constantly learning and looking for ways to apply technology in smart, scala
 
 ## 📫 Let's connect
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/HENRIQUEWANDERLEYGUEIROS)
 - Email: riquewg@gmail.com / hwg@cesar.school
 
 ---
